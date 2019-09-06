@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PicoAndPlaca</string>
+    
+    <string name="your_vehicle">Tu vehículo con placa: </string>
+    <string name="have_contravention"> tiene contravención en: </string>
+    <string name="no_have_contravention"> no tiene contravención en: </string>
+    <string name="at"> a las: </string>
+    <string name="no_have_contravention_weekend">No hay contravención los fines de semanas</string>
+    <string name="no_have_contravention_senior_citizens">No tiene contravención por ser de la tercera edad</string>
+    <string name="no_have_contravention_disability">No tiene contravención por discapacidad</string>
+    <string name="incorrect_data">Datos incorrectos</string>
+    <string name="enter_all_data">Ingrese todos los datos</string>
+    <string name="enter_plate">Ingrese placa</string>
+    <string name="enter_date">Ingrese fecha</string>
+    <string name="enter_time">ingrese hora</string>
+    <string name="disability">Discapacidad</string>
+    <string name="senior_citizens">Tercera edad</string>
+    <string name="see_contravention">Ver contravención</string>
+    <string name="next_contraventions">Proximas contravenciones</string>
+    <string name="vehicle">Vehículo: </string>
+    <string name="history_contravention">Historial de contravenciones</string>
+    <string name="contravention">Contravención:</string>
+    <string name="by_disability">por discapacidad</string>
+    <string name="by_senior_citizens">por ser de tercera edad</string>
+    <string name="see_history">Ver historial</string>
+    <string name="date_contravention">Fecha de contravención:</string>
+    <string name="yes">SI</string>
+    <string name="no">NO</string>
+
+    <!--days in spanish-->
+    <string name="monday">Lunes</string>
+    <string name="tuesday">Martes</string>
+    <string name="wednesday">Miércoles</string>
+    <string name="thursday">Jueves</string>
+    <string name="friday">Viernes</string>
+    <string name="saturday">Sábado</string>
+    <string name="sunday">Domingo</string>
+
+</resources>
